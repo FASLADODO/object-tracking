@@ -1,4 +1,4 @@
-#object-tracking
+#Object Tracking
 
 I used to study the basic approaches of object trackers.
 The language used is *MATLAB*.
